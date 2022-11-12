@@ -4,7 +4,7 @@ Estilizando e reproduzindo layouts.
 
 ## O que aprendemos no curso
 
--    Realizar a tela de um banco do zero através de um layout no figma.
+-   Realizar a tela de um banco do zero através de um layout no figma.
 
 -    Costumizar Widgets para criar cartões, cabeçalho com gradiente de cores, botões com títulos e mais.
 
@@ -20,4 +20,5 @@ Estilizando e reproduzindo layouts.
 
 ## Layout do projeto
 
-image.png
+![image](https://user-images.githubusercontent.com/43793445/201488779-30d53637-80ed-430d-a1be-19e40626b7a5.png)
+
