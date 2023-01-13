@@ -2,6 +2,8 @@
 
 Estilizando e reproduzindo layouts.
 
+Este projeto foi desenvolvido durante a formação de Flutter do Alura, nele foi desenvolvido o projeto através da reprodução de um layout no Figma. 
+
 ## O que aprendemos no curso
 
 -   Realizar a tela de um banco do zero através de um layout no figma.
